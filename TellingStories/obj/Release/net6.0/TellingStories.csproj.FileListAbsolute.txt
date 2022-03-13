@@ -1,0 +1,15 @@
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\bin\Release\net6.0\TellingStories.exe
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\bin\Release\net6.0\TellingStories.deps.json
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\bin\Release\net6.0\TellingStories.runtimeconfig.json
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\bin\Release\net6.0\TellingStories.dll
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\bin\Release\net6.0\ref\TellingStories.dll
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\bin\Release\net6.0\TellingStories.pdb
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\obj\Release\net6.0\TellingStories.csproj.AssemblyReference.cache
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\obj\Release\net6.0\TellingStories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\obj\Release\net6.0\TellingStories.AssemblyInfoInputs.cache
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\obj\Release\net6.0\TellingStories.AssemblyInfo.cs
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\obj\Release\net6.0\TellingStories.csproj.CoreCompileInputs.cache
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\obj\Release\net6.0\TellingStories.dll
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\obj\Release\net6.0\ref\TellingStories.dll
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\obj\Release\net6.0\TellingStories.pdb
+C:\Users\jaodv\OneDrive\Documentos\cs\TellingStories\TellingStories\obj\Release\net6.0\TellingStories.genruntimeconfig.cache
